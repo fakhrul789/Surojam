@@ -1,0 +1,19 @@
+new Item.png
+size: 161, 118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pijakan
+  rotate: false
+  xy: 1, 1
+  size: 66, 18
+  orig: 71, 22
+  offset: 2, 2
+  index: -1
+new item
+  rotate: false
+  xy: 1, 21
+  size: 159, 96
+  orig: 160, 96
+  offset: 1, 0
+  index: -1

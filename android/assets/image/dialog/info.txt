@@ -1,0 +1,40 @@
+info.png
+size: 1775, 285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+info 1
+  rotate: false
+  xy: 1, 1
+  size: 353, 283
+  orig: 592, 472
+  offset: 118, 95
+  index: -1
+info 2
+  rotate: false
+  xy: 356, 1
+  size: 353, 283
+  orig: 592, 472
+  offset: 118, 95
+  index: -1
+info 3
+  rotate: false
+  xy: 711, 1
+  size: 353, 283
+  orig: 592, 472
+  offset: 118, 95
+  index: -1
+info 4
+  rotate: false
+  xy: 1066, 1
+  size: 353, 283
+  orig: 592, 472
+  offset: 118, 95
+  index: -1
+info 5
+  rotate: false
+  xy: 1421, 1
+  size: 353, 283
+  orig: 592, 472
+  offset: 118, 95
+  index: -1

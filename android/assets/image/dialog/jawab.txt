@@ -1,0 +1,40 @@
+jawab.png
+size: 1560, 89
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jawaban 1
+  rotate: false
+  xy: 1, 1
+  size: 310, 87
+  orig: 592, 472
+  offset: 139, 62
+  index: -1
+jawaban 2
+  rotate: false
+  xy: 313, 1
+  size: 310, 87
+  orig: 592, 472
+  offset: 139, 62
+  index: -1
+jawaban 3
+  rotate: false
+  xy: 625, 1
+  size: 310, 87
+  orig: 592, 472
+  offset: 139, 62
+  index: -1
+jawaban 4
+  rotate: false
+  xy: 937, 1
+  size: 310, 87
+  orig: 592, 472
+  offset: 139, 62
+  index: -1
+jawaban 5
+  rotate: false
+  xy: 1249, 1
+  size: 310, 87
+  orig: 592, 472
+  offset: 139, 62
+  index: -1
